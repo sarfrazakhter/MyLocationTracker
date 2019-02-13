@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="myGreen">#00b787</color>
+
+    <color name="tab_checked">#F3CD70</color>
+
+    <color name="myDeepGreen">#096C52</color>
+
+    <color name="sweetBlack">#3d4f63</color>
+    <!--<color name="sweetBlack">#003366</color>-->
+
+    <color name="myGreenWithAlpha">#E6e7e7e7</color>
+
+    <color name="light_gray">#c2c7cc</color>
+
+    <color name="dark_gray">#3d454c</color>
+
+    <color name="dark_gray_pressed">#373e44</color>
+
+    <color name="darker_gray">#1f2226</color>
+
+    <color name="white">#FFFFFF</color>
+
+    <color name="selection">#5000b787</color>
+
+    <color name="actionbar_bg">#FF9934</color>
+
+    <color name="bg_gradient_start">#3990CA</color>
+
+    <color name="bg_gradient_end">#15547E</color>
+
+    <color name="bg_button_login">#1D394C</color>
+
+    <color name="semi_tansparent">#80E9E9E9</color>
+
+    <color name="semi_tansparent1">#30000000</color>
+
+    <color name="transparent">#00000000</color>
+
+    <color name="transparentNew">#003d4f63</color>
+
+    <color name="DarkRed">#8B0000</color>
+
+    <color name="lightGreen">#46C646</color>
+
+    <color name="myblue">#3d4f63</color>
+
+    <color name="pressedblue">#181E34</color>
+
+    <color name="transparentBlue">#E63d4f63</color>
+
+    <color name="green">#75cd00</color>
+
+    <color name="green_dark">#3c6e02</color>
+
+    <color name="blue">#0044e1</color>
+
+    <color name="blue_dark">#00217c</color>
+
+    <color name="red">#d11e2c</color>
+
+    <color name="red_dark">#810f19</color>
+
+    <color name="gray">#b6b1ac</color>
+
+    <color name="gray_dark">#6d6967</color>
+
+    <color name="black">#000000</color>
+
+    <color name="black_pressed">#7b7b7b</color>
+
+    <color name="text_color">#222222</color>
+
+    <color name="menu_item_background">#E63d4f63</color>
+
+    <color name="menu_fragment_background">#B3000000</color>
+
+    <color name="background_card">#fff</color>
+
+    <color name="theme_accent">#00b787</color>
+    <!--<color name="theme_accent">#FFEB3B</color>-->
+
+    <color name="theme_primary_dark2">#006064</color>
+
+    <color name="background_dim_overlay">#44000000</color>
+
+    <color name="background_snackbar">#323232</color>
+
+    <color name="text_white_87">#deFFFFFF</color>
+
+    <color name="myItemViewBackground">#E4E3E8</color>
+    <color name="listBackground">@android:color/darker_gray</color>
+
+    <!--*********IMPORTED COLORS FROM CHAT APP**********-->
+
+    <color name="background_dark">#d4d4d4</color>
+    <color name="sub_text_color">#ffb2b2b2</color>
+
+    <color name="status_text_head">#4e7777</color>
+    <color name="selected_status">#336699</color>
+    <color name="splash_background_top">#39b44a</color>
+    <color name="splash_background_bottom">#0fad68</color>
+
+    <color name="actionModeBackground">#00897b</color>
+    <color name="colorControlActivated">#b6dbe0</color>
+    <color name="attach_view_circle_background_color">#00b787</color>
+    <color name="pressed_color">#4d90fe</color>
+    <color name="default_color">#ffffff</color>
+    <color name="app_bg">#ececec</color>
+    <color name="background_dark_blue">#006384</color>
+
+</resources>

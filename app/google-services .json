@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "217673094647",
+    "firebase_url": "https://mylocationtracker-226007.firebaseio.com",
+    "project_id": "mylocationtracker-226007",
+    "storage_bucket": "mylocationtracker-226007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217673094647:android:8277651a9eed8388",
+        "android_client_info": {
+          "package_name": "com.acodet.mylocationtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217673094647-dk6ibom40ejfek3vvqbgtuveq394rvaf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.acodet.mylocationtracker",
+            "certificate_hash": "1e49f10aee8ca85bc0e1af5e579047a31930754c"
+          }
+        },
+        {
+          "client_id": "217673094647-kqukk5qan2qelesuauq35lm3aa4cjjto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrRLQomv98kMGZ-uNeD2dbz63Pqug2UHo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217673094647-kqukk5qan2qelesuauq35lm3aa4cjjto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
